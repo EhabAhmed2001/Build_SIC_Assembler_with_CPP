@@ -1,0 +1,10 @@
+# ninja log v5
+3	673	6901628627206539	build.ninja	e5d69999319b76f4
+23	3012	6901625808772030	CMakeFiles/My_Assembly_Project.dir/main.cpp.obj	2f8dfb923f33290c
+3012	3214	6901625810772311	My_Assembly_Project.exe	8447595cddba151a
+28	5439	6901628746757624	CMakeFiles/My_Assembly_Project.dir/main.cpp.obj	45265cb770cbd3f
+5440	5694	6901628749254485	My_Assembly_Project.exe	8447595cddba151a
+6	3046	6901630672774672	CMakeFiles/My_Assembly_Project.dir/main.cpp.obj	45265cb770cbd3f
+3046	3272	6901630675006425	My_Assembly_Project.exe	8447595cddba151a
+7	3175	6901632976481985	CMakeFiles/My_Assembly_Project.dir/main.cpp.obj	45265cb770cbd3f
+3176	3390	6901632978599203	My_Assembly_Project.exe	8447595cddba151a
